@@ -63,7 +63,7 @@ int main()
        arrr[4][6]=arrr[4][5]*100;
        arrr[5][6]=arrr[1][6]+arrr[2][6]+arrr[3][6]+arrr[4][6];
        
-      vikash:
+      adarsh:
        int ab;
        printf("\nwhat do you want to know\npress 11 for sales done by salesman 1\npress 12 for sales done by salesman 2\npress 13 for sales done by salesman 3\npress 14 for sales done by salesman 4\npress 15 for total units of milk sold\npress 16 for total units of yougurt sold\npress 17 for total units of ghee sold\npress 18 for total units of butter sold\npress 19 for total sell of milk\n press 20 for total sell of yougurt\npress 21 for total sell of ghee\npress 22 for total sell of butter \npress 23 for total sell of items : ");
        scanf("%d",&ab);
@@ -113,7 +113,7 @@ int main()
         scanf("%d",&ac);
         if (ac==1)
         {
-            goto vikash;
+            goto adarsh;
         }
         else 
         printf("\nHAVE A GREAT DAY");
